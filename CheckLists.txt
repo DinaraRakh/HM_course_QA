@@ -1,0 +1,13 @@
+24.05.2022			
+AndroidGridTest v1.0			
+Рахимова Динара			
+Huawei P30 lite, Android 10, 10.0.0.490, Модель: MAR LX-1M, Версия EMUI: 10.0.0.490			
+№	Check	Result	Comment
+1	Скачать приложение	pass	
+	Установить приложение на телефон	pass	
+	Визуальная проверка кнопок приложения	fail	Bug_id: 1
+2	Добавить виджет на экран телефона нажав на кнопку Add widget	fail	Bug_id: 2
+3	Проверка работы кнопки Saving data	pass	
+4	Проверка работы кнопки Sending Email	pass	
+5	Проверка работы кнопки Clearing data	pass	
+6	Удаление приложения	pass	
